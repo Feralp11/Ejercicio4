@@ -1,4 +1,4 @@
-# Ejercicio4
+# Documentacion del repositorio
  
 Este repositorio contiene una variedad de ejercicios, utilizando python y sus librerias, para instalar python en tu equipo, primeramente debemos buscar en nuestro navegador el instalador de python y luego instalarlo, es importante tambien mencionar que es necesario contar con la herramienta Anaconda, la cual nos permite utilizar distintas librerias de python y utilizar distintas funciones como editores de texto, para nuestro caso, se hizo uso de jupyter notebook.
 

@@ -66,3 +66,7 @@ Numpy: Permite crear operaciones matematicas por medio de arreglos.
 **Funciones:**
 
 np.array: Funcion de numpy que nos permite hacer un arreglo entre dos datos.
+
+EJERCICIO 3: SUMA LISTA DE DESEOS
+
+

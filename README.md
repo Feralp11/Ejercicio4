@@ -4,6 +4,8 @@ Este repositorio contiene una variedad de ejercicios, utilizando python y sus li
 
 Contenido de nuestro repositorio:
 
+EJERCICIO 1: CALCULOS MATEMATICOS CON PYTHON
+
 **Ejercicio caluladora:**
 
 Este programa permitira al usuario ingresar la inicial de la operacion que este desea llevar a cabo, y el sistema validara la operacion, para poder llevarla a cabo.

@@ -110,11 +110,4 @@ Se definio el objeto sumar para llevar a cabo la suma de las cantidades de la li
 
 
 
-**RAMA: DESARROLLO 1**
-
-Esta rama de desarrollo contiene el laboratorio corto de sistemas expertos, el cual consistia en crear una serie de valores aleatorios, y sumar los numeros que fueran menores a 500000, para el desarrollo del mismo, se ha hecho uso de las siguientes funciones.
-
-np.random.normal: Permite generar una serie de numeros tomando en cuenta la mediana, la cantidad de numeros, y de cuanto en cuenta iran.
-
-Para poder llevar a cabo la suma de nuestros numeros menores a 500000, se ha hecho uso de un arreglo de numpy, que reciba los numeros de la lista aleatoria, luego validamos que cumplan con la condicion,(numero < 500000), y si se cumple la condicion, el sistema sumara las cantidades que cumplan esa condicion, con la siguiente funcion: **np.sum(valor))**
 

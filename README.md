@@ -102,6 +102,14 @@ Se definio el objeto sumar para llevar a cabo la suma de las cantidades de la li
 
 
 
+
+
+
+
+
+
+
+
 **RAMA: DESARROLLO 1**
 
 Esta rama de desarrollo contiene el laboratorio corto de sistemas expertos, el cual consistia en crear una serie de valores aleatorios, y sumar los numeros que fueran menores a 500000, para el desarrollo del mismo, se ha hecho uso de las siguientes funciones.

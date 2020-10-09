@@ -11,3 +11,10 @@ Para poder llevar a cabo la suma de nuestros numeros menores a 500000, se ha hec
 **np.sum(valor)):** Nos sirve para sumar valores provenientes de un arreglo, para nuestros caso, el arreglo de los numeros de nuestra fuente de datos.
 
 **ciclo for:** Estructura logica que nos permitio validar ls numeros que eran menores que 500000 y en base a ella, generar una condicion para poder llevar a cabo la suma.
+
+**Librerias utilizadas:**
+
+Import numpy as np: Importamos las librerias de numpy.
+
+Import time: Libreria que nos permite saber el tiempo de ejecucion del codigo.
+

@@ -1,9 +1,9 @@
-*Importamos las librerias que vamos a utilizar*
+"""Importamos las librerias que vamos a utilizar"""
 
 import numpy as np
 import time
 
-*Generamos los numeros aleatorios que vamos a utilizar*
+"""Generamos los numeros aleatorios que vamos a utilizar"""
 
 datos_aleatorios = np.random.normal(500,30,10000000)
 print (datos_aleatorios)

@@ -24,3 +24,23 @@ Import numpy as np: Importamos las librerias de numpy.
 
 Import time: Libreria que nos permite saber el tiempo de ejecucion del codigo.
 
+# Desarrollo 2
+
+La rama desarrollo 2, contiene la propuesta de optimización para el laboratorio corto, como sabemos, en el mundo de la tecnologia, es sumamente necesario optimizar procesos, por tanto, un codigo eficiente y de corta duracion, siempre sera bienvenido.Para el presente ejercicio se ha seguido haciendo uso de la libreria 
+NumPy, la cual sirve para calculos numericos en python.
+
+**Librerias utilizadas:**
+
+time: Para saber el tiempo de ejecucion de nuestro codigo.
+Numpy: Para realizar los calculos numericos dentro de el codigo.
+
+**Funciones utilizadas:**
+
+np.array: Creamos un array con los datos aleatorios obtenido.
+
+np.random.normal: Nos sirve para crear nuestros numeros aleatorios.
+
+np.sum: Para realizar la suma de los numeros menores a 5000000
+
+El tiempo de ejecucion se vio enormemente favorecido con la nueva propuesta de optimizacion, dicha propuesta cuenta con los estandares de coficacion y documentacion pertinente, en el readme.md principal, estara el link del video tutorial.
+

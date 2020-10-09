@@ -4,7 +4,7 @@ Este repositorio contiene una variedad de ejercicios, utilizando python y sus li
 
 Contenido de nuestro repositorio:
 
-EJERCICIO 1: CALCULOS MATEMATICOS CON PYTHON
+#EJERCICIO 1: CALCULOS MATEMATICOS CON PYTHON
 
 **EJERCICIO CALCULADORA**
 
@@ -53,7 +53,7 @@ Math.factorial: Funcion que permite obtener el factorial de un numero.
 
 factorial_numero: recibe parametros para poder determinar el factorial del numero y realiza las operaciones matematicas pertinentes.
 
-EJERCICIO 2: LIBROS MAS VENDIDOS
+#EJERCICIO 2: LIBROS MAS VENDIDOS
 
 Este programa permite saber cuantos libros se han vendido, tomando como base el archivo "libro_24_meses.txt" y "catalogo_libros.txt", para hacer esto posible, se ha hecho uso de la funcion np.array, el cual permite crear una relacion entre dos registros y obtener el resultado que deseamos.
 
@@ -67,7 +67,7 @@ Numpy: Permite crear operaciones matematicas por medio de arreglos.
 
 np.array: Funcion de numpy que nos permite hacer un arreglo entre dos datos.
 
-EJERCICIO 3: SUMA LISTA DE DESEOS
+#EJERCICIO 3: SUMA LISTA DE DESEOS
 
 **SOLUCION 1**
 

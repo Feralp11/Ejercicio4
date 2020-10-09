@@ -6,7 +6,7 @@ Contenido de nuestro repositorio:
 
 EJERCICIO 1: CALCULOS MATEMATICOS CON PYTHON
 
-**Ejercicio caluladora:**
+**EJERCICIO CALCULADORA**
 
 Este programa permitira al usuario ingresar la inicial de la operacion que este desea llevar a cabo, y el sistema validara la operacion, para poder llevarla a cabo.
 
@@ -16,7 +16,7 @@ Upper: Permite realizar la conversion de minusculas a mayusculas y viceversa.
 
 
 
-**Ejercicio raiz cuadrada:**
+**EJERCICIO RAIZ CUADRADA**
 
 Este programa permitira al usuario final, obtener la raiz cuadrada de un numero, un numero previamente definido en el codigo del prograna.
 
@@ -30,7 +30,7 @@ Raiz_cuadrada: Este objeto contiene las operaciones matematicas necesarias para 
 
 
 
-**Ejercicio Potencia:**
+**EJERCICIO POTENCIA**
 
 Este programa permite obtener la potencia, tomando en cuenta la base y el exponente de la operacion matematica, los numeros estan prevuiamente definidos por el usuario.
 
@@ -40,7 +40,7 @@ Este programa permite obtener la potencia, tomando en cuenta la base y el expone
 Potencia: este objeto recibe los parametros de base y exponente para poder llevar a cabo la operacion matematica.
 
 
-**Ejercicio factorial:**
+**EJERCICIO FACTORIAL**
 
 Este programa permite al usuario poder calcular el factorial de un numero.
 

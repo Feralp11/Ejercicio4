@@ -100,7 +100,7 @@ Objeto "sumar":
 Se definio el objeto sumar para llevar a cabo la suma de las cantidades de la lista de deseos.
 
 
-
+Link del video tutorial: https://www.youtube.com/watch?v=BcjcsNtHrtg
 
 
 

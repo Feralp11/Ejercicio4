@@ -44,3 +44,5 @@ np.sum: Para realizar la suma de los numeros menores a 5000000
 
 El tiempo de ejecucion se vio enormemente favorecido con la nueva propuesta de optimizacion, dicha propuesta cuenta con los estandares de coficacion y documentacion pertinente, en el readme.md principal, estara el link del video tutorial.
 
+El nombre del archivo es "Parcial2_2017010432", alojado en una carpeta con el mismo nombre.
+

@@ -46,3 +46,6 @@ El tiempo de ejecucion se vio enormemente favorecido con la nueva propuesta de o
 
 El nombre del archivo es "Parcial2_2017010432", alojado en una carpeta con el mismo nombre.
 
+
+Link del video tutorial: https://www.youtube.com/watch?v=BcjcsNtHrtg
+
